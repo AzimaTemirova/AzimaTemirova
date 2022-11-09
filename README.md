@@ -11,3 +11,7 @@ I work remotely and like to travel a lot
 <code><img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png" width="25"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="25"></code>
 
+<br/>
+
+- 📍 &nbsp; Current location: Navoi, Uzbekistan
+- 📄&nbsp; Ask me about anything, I'm happy to help
