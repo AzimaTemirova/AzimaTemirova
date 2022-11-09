@@ -6,4 +6,6 @@ I work remotely and like to travel a lot
 ### languages and tools I work with:
 
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="25"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="25"></code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="25"></code>
 
