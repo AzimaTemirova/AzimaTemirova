@@ -9,4 +9,5 @@ I work remotely and like to travel a lot
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="25"></code>
 <code><img src="https://seeklogo.com/images/J/javascript-logo-851B872133-seeklogo.com.png" width="25"></code>
 <code><img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png" width="25"></code>
+<code><img src="<code><img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png" width="25"></code>" width="25"></code>
 
