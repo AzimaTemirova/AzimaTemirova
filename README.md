@@ -5,5 +5,5 @@ I work remotely and like to travel a lot
 <br/>
 ### languages and tools I work with:
 
-<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" hieght="25"></code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" width="25"></code>
 
